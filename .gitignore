@@ -1,14 +1,1 @@
-/.test
-/data
-/datasets
-/data_config copy.yaml
-/data_config_2cl.yaml
-/demo
-/reports
-/runs
-/src
-/test2.mp4
-/validate.py
-/venv
-/video
-/yolo26n.pt
+/.venv
