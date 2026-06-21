@@ -1,0 +1,11 @@
+path: ./datasets/Fall.v1i.coco
+train: train
+train_anno: train/_annotations.coco.json
+val: valid
+val_anno: valid/_annotations.coco.json
+
+names:
+  0: fall
+  1: person
+  2: down
+  3: person
