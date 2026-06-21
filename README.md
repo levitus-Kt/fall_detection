@@ -56,7 +56,7 @@ pip install PyQt6 opencv-python numpy pyqtgraph ultralytics
 
 3. Запуск приложения
 
-Запустите интерфейс демонстрационного модуля: `python app.py`
+Запустите интерфейс демонстрационного модуля: `python demo/demo.py`
 
 
 Папка runs/fall_detect/ не помещается в репозитории, поэтому она загружена в [облако|https://drive.google.com/drive/folders/1FB6r1QopxwCyxKSEsYBY7EZOBqyfIsCZ?usp=sharing]
